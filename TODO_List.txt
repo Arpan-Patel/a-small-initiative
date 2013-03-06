@@ -1,0 +1,6 @@
+TODO List
+1. Use of getopt_long functions
+2. Ring/Circular Buffer in C, C++, Java
+3. Password Authentication for Using the app
+4. Multithread Comm, Event Manager using pthreads
+5. Create Make File for the Project
